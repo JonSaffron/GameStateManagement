@@ -1,0 +1,40 @@
+C:\Development\GameStateManagement\C#\GameStateManagementSample\bin\Windows Phone\Debug\Content\background.xnb
+C:\Development\GameStateManagement\C#\GameStateManagementSample\bin\Windows Phone\Debug\Content\blank.xnb
+C:\Development\GameStateManagement\C#\GameStateManagementSample\bin\Windows Phone\Debug\Content\gradient.xnb
+C:\Development\GameStateManagement\C#\GameStateManagementSample\bin\Windows Phone\Debug\Content\menufont.xnb
+C:\Development\GameStateManagement\C#\GameStateManagementSample\bin\Windows Phone\Debug\Content\gamefont.xnb
+C:\Development\GameStateManagement\C#\GameStateManagementSample\bin\Windows Phone\Debug\GameStateManagementSample.exe
+C:\Development\GameStateManagement\C#\GameStateManagementSample\bin\Windows Phone\Debug\GameStateManagementSample.pdb
+C:\Development\GameStateManagement\C#\GameStateManagementSample\bin\Windows Phone\Debug\Microsoft.Xna.Framework.dll
+C:\Development\GameStateManagement\C#\GameStateManagementSample\bin\Windows Phone\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Development\GameStateManagement\C#\GameStateManagementSample\bin\Windows Phone\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Development\GameStateManagement\C#\GameStateManagementSample\bin\Windows Phone\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Development\GameStateManagement\C#\GameStateManagementSample\bin\Windows Phone\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Development\GameStateManagement\C#\GameStateManagementSample\bin\Windows Phone\Debug\Microsoft.Xna.Framework.xml
+C:\Development\GameStateManagement\C#\GameStateManagementSample\bin\Windows Phone\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Development\GameStateManagement\C#\GameStateManagementSample\bin\Windows Phone\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Development\GameStateManagement\C#\GameStateManagementSample\bin\Windows Phone\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Development\GameStateManagement\C#\GameStateManagementSample\bin\Windows Phone\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Development\GameStateManagement\C#\GameStateManagementSample\obj\x86\Debug\GameStateManagementSample (Phone).csprojAssemblyReference.cache
+C:\Development\GameStateManagement\C#\GameStateManagementSample\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Development\GameStateManagement\C#\GameStateManagementSample\obj\x86\Debug\GameStateManagementSample (Phone).csproj.CoreCompileInputs.cache
+C:\Development\GameStateManagement\C#\GameStateManagementSample\obj\x86\Debug\GameStateManagementSample (Phone).csproj.CopyComplete
+C:\Development\GameStateManagement\C#\GameStateManagementSample\obj\x86\Debug\GameStateManagementSample.exe
+C:\Development\GameStateManagement\C#\GameStateManagementSample\obj\x86\Debug\GameStateManagementSample.pdb
+C:\Development\GameStateManagement\C#\GameStateManagementSample\bin\x86\Debug\Content\background.xnb
+C:\Development\GameStateManagement\C#\GameStateManagementSample\bin\x86\Debug\Content\blank.xnb
+C:\Development\GameStateManagement\C#\GameStateManagementSample\bin\x86\Debug\Content\gradient.xnb
+C:\Development\GameStateManagement\C#\GameStateManagementSample\bin\x86\Debug\Content\menufont.xnb
+C:\Development\GameStateManagement\C#\GameStateManagementSample\bin\x86\Debug\Content\gamefont.xnb
+C:\Development\GameStateManagement\C#\GameStateManagementSample\bin\x86\Debug\GameStateManagementSample.exe
+C:\Development\GameStateManagement\C#\GameStateManagementSample\bin\x86\Debug\GameStateManagementSample.pdb
+C:\Development\GameStateManagement\C#\GameStateManagementSample\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Development\GameStateManagement\C#\GameStateManagementSample\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Development\GameStateManagement\C#\GameStateManagementSample\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Development\GameStateManagement\C#\GameStateManagementSample\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Development\GameStateManagement\C#\GameStateManagementSample\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Development\GameStateManagement\C#\GameStateManagementSample\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Development\GameStateManagement\C#\GameStateManagementSample\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Development\GameStateManagement\C#\GameStateManagementSample\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Development\GameStateManagement\C#\GameStateManagementSample\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Development\GameStateManagement\C#\GameStateManagementSample\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml

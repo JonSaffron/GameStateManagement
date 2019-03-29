@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameStateManagementSample (Phone)", "GameStateManagementSample\GameStateManagementSample (Phone).csproj", "{DD81273B-222B-4960-BC60-99C253116608}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Content", "Content\Content.contentproj", "{44459A75-F2CF-4B58-89EA-79154AF5C1AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Debug|x86 = Debug|x86
+		Release|Windows Phone = Release|Windows Phone
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD81273B-222B-4960-BC60-99C253116608}.Debug|Windows Phone.ActiveCfg = Debug|x86
+		{DD81273B-222B-4960-BC60-99C253116608}.Debug|x86.ActiveCfg = Debug|x86
+		{DD81273B-222B-4960-BC60-99C253116608}.Debug|x86.Build.0 = Debug|x86
+		{DD81273B-222B-4960-BC60-99C253116608}.Release|Windows Phone.ActiveCfg = Release|x86
+		{DD81273B-222B-4960-BC60-99C253116608}.Release|x86.ActiveCfg = Release|x86
+		{DD81273B-222B-4960-BC60-99C253116608}.Release|x86.Build.0 = Release|x86
+		{44459A75-F2CF-4B58-89EA-79154AF5C1AF}.Debug|Windows Phone.ActiveCfg = Debug|Any CPU
+		{44459A75-F2CF-4B58-89EA-79154AF5C1AF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{44459A75-F2CF-4B58-89EA-79154AF5C1AF}.Release|Windows Phone.ActiveCfg = Debug|Any CPU
+		{44459A75-F2CF-4B58-89EA-79154AF5C1AF}.Release|x86.ActiveCfg = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F693F7CF-0174-46A9-9417-AAF76D93981A}
+	EndGlobalSection
+EndGlobal

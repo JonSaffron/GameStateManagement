@@ -1,0 +1,2 @@
+C:\Development\GameStateManagement\C#\Content\obj\x86\Debug\Content.contentprojAssemblyReference.cache
+C:\Development\GameStateManagement\C#\Content\obj\x86\Debug\Content.contentproj.CoreCompileInputs.cache
